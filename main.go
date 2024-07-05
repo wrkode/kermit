@@ -13,7 +13,7 @@ import (
 	"sigs.k8s.io/yaml"
 )
 
-const version = "1.0.0"
+const version = "0.0.0"
 
 func main() {
 	var namespace string
